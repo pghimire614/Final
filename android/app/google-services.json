@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124348620896",
+    "firebase_url": "https://meroride-25763-default-rtdb.firebaseio.com",
+    "project_id": "meroride-25763",
+    "storage_bucket": "meroride-25763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124348620896:android:55706b88e9d76c0ee72305",
+        "android_client_info": {
+          "package_name": "com.example.shila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124348620896-79c7g57q5a9jhgv4na5s1bt5af95261g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASz_jLWPhGUCTvrPKpjFcx8XWJ3wsI5jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124348620896-79c7g57q5a9jhgv4na5s1bt5af95261g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124348620896-5q5h6n4kkva62b9rr61a7oma2omi11ig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meroride"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
