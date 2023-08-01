@@ -42,7 +42,7 @@ String countRatings = "";
 double countRatingStars = 0.0;
 String titleStarsRating = "";
 String cloudMessagingServerToken =
-    "key = AAAAHPPBYGA:APA91bH4DwUnHi6AXTCsiPRmXB9L0ChHUbt2VV68r8tONFiE2efowMkItVf3Gvt2kGn2Ilo06geCl4bm1mCjj37yO0FBjipdlrKJraAbbo2hHB-J6nHnI96tCAvvPCkGDnW_nciJ_lGJ";
+   
 
 driverdata onlinedriverData = driverdata();
 List driversList = [];
