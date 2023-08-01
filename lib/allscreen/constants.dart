@@ -8,7 +8,7 @@ import 'package:shila/allscreen/Driver/driverdata.dart';
 import '../models/allUsers.dart';
 import '../models/directiondetails.dart';
 
-const String google_api_key = "AIzaSyDnwXXUrhc1TEb88gLzxJEH-EAG3LFeRY0";
+const String google_api_key = 
 
 const Color primaryColor = Color.fromARGB(255, 83, 33, 198);
 const double defaultPadding = 15.0;
